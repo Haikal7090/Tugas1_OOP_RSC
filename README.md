@@ -14,6 +14,8 @@ User milih kontak mana yang ingin dilihat informasinya secara lebih lengkap
 3. **EXIT**: Program keluar
 Data-data yang tersimpan terhapus
 
+**Video Demo Program :**
+https://drive.google.com/file/d/1kDVhMSCrZOeU-kHUIO4DGYV2DKq7KNV2/view?usp=sharing
 
 
 ```cpp
