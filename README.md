@@ -1,3 +1,21 @@
+
+**Deskripsi Tugas :**
+
+Program membuat Daftar Contact menerapkan konsep OOP dengan tiga kode utama **ADD, SEARCH, EXIT**.
+
+1. **ADD**: menyimpan informasi kontak baru.
+Jika user memberikan perintah ini, mereka akan diberikan input-an informasi dari kontak yang ingin disimpan. Informasi lalu akan disimpan di dalam PhoneBook
+Informasi dapat berupa: nama, tempat tinggal, alamat, dan kekuatan yang dimiliki (misal: Pyro, Cryo, Anemo, Dendro, Geo, Hydro, Electro, Havoc, Spectro, dll)
+
+2. **SEARCH**: display kontak yang spesifik.
+Ditampilkan semua kontak yang ada secara sekilas (misal cuma namanya saja)
+User milih kontak mana yang ingin dilihat informasinya secara lebih lengkap
+
+3. **EXIT**: Program keluar
+Data-data yang tersimpan terhapus
+
+
+
 ```cpp
 #include <iostream>
 #include <string>
@@ -144,3 +162,4 @@ int main() {
 
     return 0;
 }
+
